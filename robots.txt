@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idespicke.github.io/sitemap
+Sitemap: https://idespicke.github.io/app/sitemap
+Sitemap: https://idespicke.github.io/assets/sitemap
+Sitemap: https://idespicke.github.io/css/sitemap
+Sitemap: https://idespicke.github.io/includes/sitemap
+Sitemap: https://idespicke.github.io/item/sitemap
+Sitemap: https://idespicke.github.io/src/sitemap
